@@ -1,7 +1,7 @@
 # Hi 👋, I'm Scott Wong
 👨‍💻 Programmer that love building apps powered by AI<br/>
 👨‍🎓 Studied Computer Science at the University of Wollongong Malaysia<br/>
-🔭 Currently working on [Finetune LLM Model with MLX](https://github.com/Wongyenchik/finetune-mlx-math-model)<br/>
+🔭 Currently working on [McDonald's AI]([https://github.com/Wongyenchik/finetune-mlx-math-model](https://github.com/Wongyenchik/mcdonalds_ai))<br/>
 
 
 ## Contact 📫
